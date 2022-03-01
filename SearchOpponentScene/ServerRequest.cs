@@ -51,9 +51,4 @@ public class ServerRequest : MonoBehaviour
             }
         }
     }
-
-    private void OnDestroy()
-    {
-        //Debug.Log("Connect Server");
-    }
 }

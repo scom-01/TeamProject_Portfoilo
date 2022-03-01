@@ -127,29 +127,6 @@ public class Setting : MonoBehaviour
     }
     #endregion
 
-    //#region =========Graphic Setting
-    //void GraphicBtnClick()
-    //{
-    //    ClearActive();
-    //    GraphicSetActive = true;
-    //}
-
-    //void GraphicSet()
-    //{
-    //    GlobalValue.FPS60_Bool = FPS60_Toggle.isOn;
-    //    FPSDisplayBool = FPSDisplay_Toggle.isOn;
-    //    GlobalValue.FPSDisplay_Bool = FPSDisplayBool;
-    //}
-
-    //void GraphicReset()
-    //{
-    //    //ToggleGroup으로 인해 FPS60_Toggle.isOn = true이면 자동으로 FPS30_Toggle.isOn = false
-    //    FPS60_Toggle.isOn = true;
-    //    FPSDisplay_Toggle.isOn = false;
-    //    //FPS30_Toggle.isOn = false;
-    //}
-    //#endregion
-
     #region =========Social Setting
     void SocialBtnClick()
     {
